@@ -386,7 +386,7 @@
       <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
         <h1 class="h2">Modello Fattura</h1>
       </div>
-		<div class="col-md-9 m-auto text-center col-lg-10 px-md-4  border border-white">
+		<div class="col-md-9 m-auto text-center col-lg-10 px-md-4 bg-body-tertiary rounded p-4 shadow">
 			<?php echo $fattura;?>
 		</div>
     </main>

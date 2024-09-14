@@ -352,7 +352,7 @@
           </button>
         </div>
       </div>
-	  <div class="col-md-9 m-auto text-center col-lg-10 px-md-4">
+	  <div class="col-md-9 m-auto text-center col-lg-10 px-md-4 bg-body-tertiary rounded p-4 shadow">
 		<h2 class="h2">Modifica Prodotto</h2>
 		<div class="p-5 mx-5">
 		<form class="text-center" method="POST" action="modify_prodotto.php">

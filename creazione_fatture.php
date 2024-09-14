@@ -17,15 +17,6 @@
 
 <link href="css/bootstrap.min.css" rel="stylesheet">
 
-    <!-- Favicons -->
-<!--<link rel="apple-touch-icon" href="/docs/5.3/assets/img/favicons/apple-touch-icon.png" sizes="180x180">
-<link rel="icon" href="/docs/5.3/assets/img/favicons/favicon-32x32.png" sizes="32x32" type="image/png">
-<link rel="icon" href="/docs/5.3/assets/img/favicons/favicon-16x16.png" sizes="16x16" type="image/png">
-<link rel="manifest" href="/docs/5.3/assets/img/favicons/manifest.json">
-<link rel="mask-icon" href="/docs/5.3/assets/img/favicons/safari-pinned-tab.svg" color="#712cf9">
-<link rel="icon" href="/docs/5.3/assets/img/favicons/favicon.ico">
-<meta name="theme-color" content="#712cf9">-->
-
 
     <style>
       .bd-placeholder-img {
@@ -313,7 +304,7 @@
       <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
         <h1 class="h2">Componi Fattura</h1>
       </div>
-	  <div class="col-md-9 m-auto text-center col-lg-10 px-md-4  border border-white">
+	  <div class="col-md-9 m-auto text-center col-lg-10 px-md-4 bg-body-tertiary rounded p-4 shadow">
 		<div class="p-5 mx-5">
 		<form  class="text-center" method="POST" action="crea_fattura.php">
 			<br>

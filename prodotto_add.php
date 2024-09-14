@@ -231,7 +231,7 @@
 </svg>
 
 <header class="navbar sticky-top bg-dark flex-md-nowrap p-0 shadow" data-bs-theme="dark">
-  <a class="navbar-brand col-md-3 col-lg-2 me-0 px-3 fs-6 text-white" href="#">Davide Valli</a>
+  <a class="navbar-brand col-md-3 col-lg-2 me-0 px-3 fs-6 text-white" href="user-settings.php">Davide Valli</a>
 
   <ul class="navbar-nav flex-row d-md-none">
     <li class="nav-item text-nowrap">
@@ -353,7 +353,7 @@
           </button>
         </div>
       </div>
-	  <div class="col-md-9 m-auto col-lg-10 px-md-4">
+	  <div class="col-md-9 m-auto col-lg-10 px-md-4 bg-body-tertiary rounded p-4 shadow">
 		<h2 class="h2 text-center">Aggiungi Nuovo Prodotto</h2>
 		<div class="p-5">
 		<form class="text-center" method="POST" action="prodotto_exec.php">
